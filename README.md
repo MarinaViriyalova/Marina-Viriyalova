@@ -8,7 +8,7 @@
 
 
 
-* Мой стек:
+## Мой стек:
 
 
 ![image](https://user-images.githubusercontent.com/71218799/136786201-c4d8b0e4-2467-4c73-a420-02b16763ac45.png)
@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/71218799/136786386-f0c2bd87-f050-44e9-b894-45e6a9efde37.png)
 
 
-* Связаться со мной:
+## Связаться со мной:
 
 * Telegram: @marina_viriyalova
 * E-mail: m.viriyalova@gmail.com
