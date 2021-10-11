@@ -6,7 +6,11 @@
 * 📖 Стараюсь изучать новое и повторять пройденное
 * 🎓 Хочу освоить новые фреймворки
 
+
+
 * Мой стек:
+
+
 ![image](https://user-images.githubusercontent.com/71218799/136786201-c4d8b0e4-2467-4c73-a420-02b16763ac45.png)
 ![image](https://user-images.githubusercontent.com/71218799/136786236-2607e149-f23d-472c-b9c2-491d0bb8b29d.png)
 ![image](https://user-images.githubusercontent.com/71218799/136786279-26877063-095e-4378-9cb1-9b519451a64d.png)
