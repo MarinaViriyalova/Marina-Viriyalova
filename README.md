@@ -1,14 +1,13 @@
-# Всем привет, меня зовут Марина 👋
+# Hi there, I'm Marina 👋
 
-* 💻 Я начинающий frontend-разработчик
-* 💪 Стремлюсь к работе с настоящими боевыми проектами
-* 😎 Хочу работать в команде с опытными разработчиками
-* 📖 Стараюсь изучать новое и повторять пройденное
-* 🎓 Хочу освоить новые фреймворки
-
+* 💻 I'm begginer frontend-developer
+* 💪 Aspired to work with real projects
+* 😎 Would love to work in a team with experienced developers
+* 📖 Willing to learn new thing 
 
 
-## Мой стек:
+
+## My stack:
 
 
 ![image](https://user-images.githubusercontent.com/71218799/136786201-c4d8b0e4-2467-4c73-a420-02b16763ac45.png)
@@ -20,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/71218799/136786386-f0c2bd87-f050-44e9-b894-45e6a9efde37.png)
 
 
-## Связаться со мной:
+## Contact me:
 
 * Telegram: @marina_viriyalova
 * E-mail: m.viriyalova@gmail.com
