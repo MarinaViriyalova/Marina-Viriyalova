@@ -3,7 +3,7 @@
 * 💻 I'm frontend developer
 * 💪 Aspired to work with real projects
 * 😎 Would love to work in a team with experienced developers
-* 📖 Willing to learn new thing 
+* 📖 Willing to learn new things 
 
 
 
