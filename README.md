@@ -1,8 +1,8 @@
 # Hi there, I'm Marina 👋
 
-* 💻 I'm frontend developer
+* 💻 I'm junior software engineer
 * 💪 Aspired to work with real projects
-* 😎 Would love to work in a team with experienced developers
+* 😎 Would love to work in a team with experienced engineers
 * 📖 Willing to learn new things 
 
 
